@@ -1,0 +1,34 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: rgb(62, 62, 65);
+}
+.container{
+    justify-content: center;
+    cursor: pointer;
+    text-align: center;
+    /* margin-top: 7%; */
+    font-size: larger;
+}
+h1{
+    padding-left: 41%;
+    padding-top: 23%;
+    font-size: 50px;
+}
+span{
+    font-size: 50px;
+}
+button{
+    font-size: 2em;
+    background-color: #ffa600;;
+}
+
+button:hover{
+    
+     background-color: white;
+     cursor: pointer;
+     color:#ffa600 ;
+     transition: 0.4s;
+     border: none;
+
+}
